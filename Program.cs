@@ -24,4 +24,4 @@ namespace week3task
 
          } // end of main method
     } //Thank you for checking
-} // WellaSchool Project by Daslaw
+} // WellaSchool Project by (c)Daslaw
